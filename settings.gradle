@@ -1,0 +1,2 @@
+rootProject.name='Sarpras4'
+include ':app'
